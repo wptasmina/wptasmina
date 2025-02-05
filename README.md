@@ -5,7 +5,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">Tasmina</h1>
+<h1 align="center">Tasmina Akter</h1>
 
 <!-- Subtitle -->
 <p align="center">
@@ -34,7 +34,7 @@ I’m proficient in HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Node.js, 
 
 Let's collaborate to bring your vision to life with precision, creativity, and cutting-edge technology!
 
-💻My Skills and Experience
+💻My Skills and Experience<br>
 --------------------𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠: ```<br>
 * 🚀 &emsp;𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝: HTML5, CSS3, JavaScript, React, Bootstrap, Tailwind CSS <br>
 * 🚀 &emsp;𝐁𝐚𝐜𝐤-𝐞𝐧𝐝: Node.js, Express, MongoDB, Next.js,<br>
@@ -79,7 +79,7 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 * 🤝 &emsp;I'm open to collaborating on Open-Source Project
 * ⚡ &emsp;I'm also digital marketer
 <br>
->
+
 
 ## 💡 Skills
 
@@ -137,6 +137,3 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
   <img  alt="snake eating my contributions" src="github-snake.svg"  width="100%" />
 <br/><br/>
 </div>
-
-
-
