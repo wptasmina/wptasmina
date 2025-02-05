@@ -126,8 +126,9 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 
 #### Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=react&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=wptasmina&theme=dark&hide_border=true) /></a><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmna&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![] (https://github-readme-streak-stats.herokuapp.com?user=wptasmina&theme=dark&hide_border=true" alt="GitHub Streak) /></a>
 
 <br><br>
 <!-- My Contributions Section -->
