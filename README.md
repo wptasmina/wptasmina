@@ -1,4 +1,3 @@
-
 <!-- Header Image -->
  <p align="center"   >
   <img src="dev.gif" width="100%" alt="Tasmina Akter"> 
@@ -124,21 +123,21 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
-#### Github Stats
-![](https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com?user=wptasmina&theme=dark&hide_border=true) /></a><br/>
-(https://github-readme-streak-stats.herokuapp.com?user=wptasmina&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<br><br>
+<br>
+#### Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br>
 <!-- My Contributions Section -->
-<br><br>
+<br>
 <h2 align="left">🐍 My Contributions</h2>
 <div align="center">
   <img  alt="snake eating my contributions" src="github-snake.svg"  width="100%" />
 <br/><br/>
 </div>
-
-
 
 
 
