@@ -15,7 +15,7 @@
 <!-- Social Media Icons -->
 
 <div align="center">
-  <a href="https://github.com/wptasmina"><img src="https://img.shields.io/badge/Github-green?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/></a>
+  <a href="https://github.com/wptasmina" target="_blank"><img src="https://img.shields.io/badge/Github-%231877F2.svg?logo=Facebook&logoColor=white" alt="GitHub"/></a>
   <a href="https://facebook.com/wptasmina" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://linkedin.com/in/wptasmina" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/wptasmina" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
@@ -34,7 +34,7 @@ I’m proficient in HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Node.js, 
 
 Let's collaborate to bring your vision to life with precision, creativity, and cutting-edge technology!
 
-💻My Skills and Experience<br>
+💻My Skills and Experience
 --------------------𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠: ```<br>
 * 🚀 &emsp;𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝: HTML5, CSS3, JavaScript, React, Bootstrap, Tailwind CSS <br>
 * 🚀 &emsp;𝐁𝐚𝐜𝐤-𝐞𝐧𝐝: Node.js, Express, MongoDB, Next.js,<br>
@@ -79,7 +79,7 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 * 🤝 &emsp;I'm open to collaborating on Open-Source Project
 * ⚡ &emsp;I'm also digital marketer
 <br>
-
+>
 
 ## 💡 Skills
 
