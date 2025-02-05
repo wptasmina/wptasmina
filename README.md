@@ -124,9 +124,14 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
+#### Github Stats
+![](https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmna&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<br><br>
 <!-- My Contributions Section -->
-<br>
+<br><br>
 <h2 align="left">🐍 My Contributions</h2>
 <div align="center">
   <img  alt="snake eating my contributions" src="github-snake.svg"  width="100%" />
