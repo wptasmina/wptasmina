@@ -27,20 +27,22 @@
 ### About me
 
 Hi, I’m Tasmina!
-I’m from Sylhet, Bangladesh, and I graduated with a Bachelor of Arts (BA) in 2022 from Murari Chand College (MC College), Sylhet. I began my journey into programming in 2022 and have since developed a strong expertise in web development and problem-solving.
+I’m a Front-end expertise passionate about crafting beautiful, responsive, and user-friendly web experiences. My journey into technology began in 2019 when I started learning basic computer skills. After completing my Higher Secondary Education, I completed my Bachelor of Arts (BA) from Murari Chand College (MC College), Sylhet, in 2022.
 
-I’m proficient in HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Node.js, MongoDB, and Next.js.I'm a Full-Stack Developer passionate about building exceptional web and mobile applications. Additionally, I have solid skills in TypeScript, SQL, and MySQL, making me a versatile and well-rounded developer.
+That same year, I embarked on my journey into programming, quickly developing a strong expertise in web development and problem-solving. Today, I'm a Full-Stack Developer proficient in HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Node.js, MongoDB, and Next.js.
 
-Let's collaborate to bring your vision to life with precision, creativity, and cutting-edge technology!
+I’m passionate about transforming ideas into interactive digital experiences. Let’s collaborate to build something amazing! 🚀
+``` 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠: ```<br>
 
-💻My Skills and Experience
---------------------𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠: ```<br>
 * 🚀 &emsp;𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝: HTML5, CSS3, JavaScript, React, Bootstrap, Tailwind CSS <br>
 * 🚀 &emsp;𝐁𝐚𝐜𝐤-𝐞𝐧𝐝: Node.js, Express, MongoDB, Next.js,<br>
 * ⚡ &emsp;𝗗𝗲𝘃𝗢𝗽𝘀: Git, GitHub, GitLab<br>
 * ⚡ &emsp;𝐑𝐮𝐧𝐭𝐢𝐦𝐞: Node <br>
 
 I am also passionate about learning new technologies and staying up-to-date with the latest trends in web development. I am a team player and I am always willing to go the extra mile to get the job done------
+
+💻My Skills and Experience
+--------------------
 * 🧠 &emsp;𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐏𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲: Possess extensive experience in building modern web applications using HTML, CSS, JavaScript (ES6+), ReactJS, NodeJS, ExpressJS, MongoDB, Next.js and various UI/UX libraries.<br>
 * 🧠 &emsp;𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐌𝐚𝐬𝐭𝐞𝐫𝐲: Adept at crafting clean, responsive, and user-friendly interfaces, ensuring optimal performance across devices and browsers.<br>
 * 🧠 &emsp;𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐄𝐱𝐜𝐞𝐥𝐥𝐞𝐧𝐜𝐞: Capable of developing robust and scalable server-side applications, implementing APIs<br>
@@ -123,14 +125,16 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
-
 <br>
-#### Github Stats
+
+### Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=react&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 <br>
+
 <!-- My Contributions Section -->
 <br>
 <h2 align="left">🐍 My Contributions</h2>
