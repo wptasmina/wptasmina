@@ -8,7 +8,7 @@
 
 <!-- Subtitle -->
 <p align="center">
-  💻 A passionate MERN Stack developer from Bangladesh
+  💻 A passionate MERN Stack developer from Sylhet,Bangladesh
 </p>
 
 <!-- Social Media Icons -->
