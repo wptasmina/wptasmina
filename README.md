@@ -26,15 +26,23 @@
 
 ### About me
 
-Hi, I’m Tasmina!
-I’m a Front-end expertise passionate about crafting beautiful, responsive, and user-friendly web experiences. My journey into technology began in 2019 when I started learning basic computer skills. After completing my Higher Secondary Education, I completed my Bachelor of Arts (BA) from Murari Chand College (MC College), Sylhet, in 2022.
+<p align="center">
+  <strong>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=Front-End+Developer;Tech+Enthusiast;Lifelong+Learner">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=500&height=40&lines=MERN+Stack+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+    </picture>
+  </strong>
+</p>
+I’m a Front-end expertise passionate about crafting beautiful, responsive, and user-friendly web experiences. My journey into technology began in 2019 when I started learning basic computer skills. After completing my Higher Secondary Education, I completed my Bachelor of Business Studies (BBS) from Murari Chand College (MC College), Sylhet, in 2022.
 
 That same year, I embarked on my journey into programming, quickly developing a strong expertise in web development and problem-solving. Today, I'm a Full-Stack Developer proficient in HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Node.js, MongoDB, and Next.js.
 
 I’m passionate about transforming ideas into interactive digital experiences. Let’s collaborate to build something amazing! 🚀
 ``` 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠: ```<br>
 
-* 🚀 &emsp;𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝: HTML5, CSS3, JavaScript, React, Bootstrap, Tailwind CSS <br>
+* 🚀 &emsp;𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝: HTML5, CSS3, JavaScript, TypeScript, React, Redux, Bootstrap, Tailwind CSS <br>
 * 🚀 &emsp;𝐁𝐚𝐜𝐤-𝐞𝐧𝐝: Node.js, Express, MongoDB, Next.js,<br>
 * ⚡ &emsp;𝗗𝗲𝘃𝗢𝗽𝘀: Git, GitHub, GitLab<br>
 * ⚡ &emsp;𝐑𝐮𝐧𝐭𝐢𝐦𝐞: Node <br>
@@ -64,7 +72,7 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 ------------------------
 
 * 🤝 &emsp;Bachelor's degree in Bachelor of Business Studies(BBS) <br>
-* 🤝 &emsp;3+ years of experience in full-stack development<br>
+* 🤝 &emsp;2+ years of experience in full-stack development<br>
 * 🤝 &emsp;Strong understanding of front-end and back-end development technologies<br>
 * 🤝 &emsp;Experience with cloud computing and DevOps tools<br>
 * 🤝 &emsp;Ability to work independently and as part of a team
