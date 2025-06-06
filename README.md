@@ -8,7 +8,7 @@
 
 <!-- Subtitle -->
 <p align="center">
-  💻 A passionate MERN Stack developer from Sylhet,Bangladesh
+  💻 A passionate Full Stack developer from Sylhet,Bangladesh
 </p>
 
 <!-- Social Media Icons -->
@@ -30,8 +30,8 @@
   <strong>
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-              srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=Front-End+Developer;Tech+Enthusiast;Lifelong+Learner">
-     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=500&height=40&lines=MERN+Stack+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+              srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&duration=2500&pause=800&color=000&center=true&vCenter=true&width=500&height=40&lines=Front-End+Developer;Full+Stack+Developer;Tech+Enthusiast;Lifelong+Learner">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=fff&center=true&vCenter=true&width=500&height=40&lines=MERN+Stack+Developer;Full+Stack+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
     </picture>
   </strong>
 </p>
@@ -39,11 +39,11 @@ I’m a Front-end expertise passionate about crafting beautiful, responsive, and
 
 That same year, I embarked on my journey into programming, quickly developing a strong expertise in web development and problem-solving. Today, I'm a Full-Stack Developer proficient in HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Node.js, MongoDB, and Next.js.
 
-I’m passionate about transforming ideas into interactive digital experiences. Let’s collaborate to build something amazing! 🚀
+I’m passionate about transforming ideas into interactive digital experiences. Let’s collaborate to build something amazing!<br> <br> 🚀
 ``` 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠: ```<br>
 
-* 🚀 &emsp;𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝: HTML5, CSS3, JavaScript, TypeScript, React, Redux, Bootstrap, Tailwind CSS <br>
-* 🚀 &emsp;𝐁𝐚𝐜𝐤-𝐞𝐧𝐝: Node.js, Express, MongoDB, Next.js,<br>
+* 🚀 &emsp;𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝: HTML5, CSS3, JavaScript, TypeScript,  React, Next.js, Redux, Zustand, TanStack Query, Bootstrap, Tailwind CSS <br>
+* 🚀 &emsp;𝐁𝐚𝐜𝐤-𝐞𝐧𝐝: Node.js, Express, MongoDB, Firebase, Next-Auth (Authentication), Zod<br>
 * ⚡ &emsp;𝗗𝗲𝘃𝗢𝗽𝘀: Git, GitHub, GitLab<br>
 * ⚡ &emsp;𝐑𝐮𝐧𝐭𝐢𝐦𝐞: Node <br>
 
