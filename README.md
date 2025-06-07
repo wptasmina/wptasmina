@@ -115,6 +115,7 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
   <img src="https://img.shields.io/badge/mongodb -%230769AD.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  
 </p>
 
 <!-- Tools Skills -->
@@ -128,7 +129,13 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
   <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Zustand-%23FFDD57.svg?style=for-the-badge&logo=Zustand&logoColor=black" alt="Zustand">
+  <img src="https://img.shields.io/badge/Zod-%23000000.svg?style=for-the-badge&logo=Zod&logoColor=white" alt="Zod">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
+
+
 
 <br>
 
