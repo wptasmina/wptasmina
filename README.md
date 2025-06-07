@@ -35,17 +35,18 @@
     </picture>
   </strong>
 </p>
+<br/>
 I’m a Front-end expertise passionate about crafting beautiful, responsive, and user-friendly web experiences. My journey into technology began in 2019 when I started learning basic computer skills. After completing my Higher Secondary Education, I completed my Bachelor of Business Studies (BBS) from Murari Chand College (MC College), Sylhet, in 2022.
-
-That same year, I embarked on my journey into programming, quickly developing a strong expertise in web development and problem-solving. Today, I'm a Full-Stack Developer proficient in HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Node.js, MongoDB, and Next.js.
+<br/>
+That same year, I embarked on my journey into programming, quickly developing a strong expertise in web development and problem-solving. Today, I'm a Full-Stack Developer proficient in HTML, CSS, Bootstrap, Tailwind, JavaScript,TypeScript, React, Next.js, Node.js,Express.js and MongoDB.
 
 I’m passionate about transforming ideas into interactive digital experiences. Let’s collaborate to build something amazing!<br> <br> 🚀
 ``` 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠: ```<br>
 
-* 🚀 &emsp;𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝: HTML5, CSS3, JavaScript, TypeScript,  React, Next.js, Redux, Zustand, TanStack Query, Bootstrap, Tailwind CSS <br>
-* 🚀 &emsp;𝐁𝐚𝐜𝐤-𝐞𝐧𝐝: Node.js, Express, MongoDB, Firebase, Next-Auth (Authentication), Zod<br>
-* ⚡ &emsp;𝗗𝗲𝘃𝗢𝗽𝘀: Git, GitHub, GitLab<br>
-* ⚡ &emsp;𝐑𝐮𝐧𝐭𝐢𝐦𝐞: Node <br>
+* 🚀 &emsp;<b>Front-end:</b> HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Redux, Zustand, TanStack Query, Bootstrap, Tailwind CSS<br>
+* 🚀 &emsp;<b>Back-end:</b> Node.js, Express, MongoDB, Firebase, NextAuth.js (Authentication), Zod<br>
+* ⚡ &emsp;<b>DevOps:</b> Git, GitHub, GitLab<br>
+* ⚡ &emsp;<b>Runtime:</b> Node.js<br>
 
 I am also passionate about learning new technologies and staying up-to-date with the latest trends in web development. I am a team player and I am always willing to go the extra mile to get the job done------
 
@@ -101,6 +102,7 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 </p>
@@ -113,12 +115,11 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"> 
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/mongodb -%230769AD.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
+  <img src="https://img.shields.io/badge/mongodb-%230769AD.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-  
 </p>
 
-<!-- Tools Skills -->
+<!-- Tools -->
 
 ### 🕸️ Tools
 
@@ -133,9 +134,8 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
   <img src="https://img.shields.io/badge/Zod-%23000000.svg?style=for-the-badge&logo=Zod&logoColor=white" alt="Zod">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth.js">
 </p>
-
-
 
 <br>
 
