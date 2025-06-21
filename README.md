@@ -83,7 +83,7 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 
 * ❤️ I love programming and enjoy sharing knowledge with others
 * 💻 Most used line of code: `console.log("hello world")`
-* 📧 Email: [wptasmina@gmail.com] (mailto:wptasmina@gmail.com)
+* 📧 Email: tasmina163@gmail.com
 * 🌍 Based in **Bangladesh**
 * 🧠 Currently learning **SQL**, **MySQL**, and exploring **PostgreSQL**
 * ⚙️ Working with **Prisma ORM** for database management
@@ -91,8 +91,6 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 
 
 <br>
-
-
 ## 💡 Skills
 
 <!-- Front-End Skills -->
@@ -138,9 +136,7 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth.js">
 </p>
-
 <br>
-
 ### Github Stats
 
 <!-- Stats Section -->
@@ -154,13 +150,12 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 
 <br/>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-<div>
+<div style="display: flex; gap: 10px;">
+
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-<div>
-   <img src="https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</div>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+
 </div>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
