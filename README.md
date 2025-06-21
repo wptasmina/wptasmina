@@ -80,14 +80,16 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 
 🪪 𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
 ------------------------
-* :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-* :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-* :e-mail: &emsp;You can contact me at [`wptasmina@gmail.com`]<br/>
-* 🏢 &emsp;Fun fact: I founded my Software Solution company  Gladepik.
-* 🌍 &emsp;I'm based in Bangladesh
-* 🧠 &emsp;I'm learning SQL AND MYSQL 
-* 🤝 &emsp;I'm open to collaborating on Open-Source Project
-* ⚡ &emsp;I'm also digital marketer
+
+* ❤️ I love programming and enjoy sharing knowledge with others
+* 💻 Most used line of code: `console.log("hello world")`
+* 📧 Reach me at: [wptasmina@gmail.com](mailto:wptasmina@gmail.com)
+* 🌍 Based in **Bangladesh**
+* 🧠 Currently learning **SQL**, **MySQL**, and exploring **PostgreSQL**
+* ⚙️ Working with **Prisma ORM** for database management
+* 🤝 Open to collaborating on **open-source projects**
+
+
 <br>
 
 
