@@ -83,7 +83,7 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 
 * ❤️ I love programming and enjoy sharing knowledge with others
 * 💻 Most used line of code: `console.log("hello world")`
-* 📧 Reach me at: [wptasmina@gmail.com](mailto:wptasmina@gmail.com)
+* 📧 Email: [wptasmina@gmail.com] (mailto:wptasmina@gmail.com)
 * 🌍 Based in **Bangladesh**
 * 🧠 Currently learning **SQL**, **MySQL**, and exploring **PostgreSQL**
 * ⚙️ Working with **Prisma ORM** for database management
