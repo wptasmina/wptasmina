@@ -140,7 +140,6 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 
 ### 📊 Github Stats
 <!-- Stats Section -->
-
 <!-- <h2 align="center">📊 My Stats</h2> -->
 <!-- <div align="center">
   <a href="https://wakatime.com/@27c85e42-a650-4900-abe6-fdef568a986e">
@@ -149,8 +148,9 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 </div> -->
 <br/>
 <div style="display: flex;  gap: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="50%" height="180"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="50%" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 <br>
@@ -161,7 +161,7 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 <!-- My Contributions Section -->
 <h2 align="left">🐍 My Contributions</h2>
 <div align="center">
-  <img  alt="snake eating my contributions" src="github-snake.svg"  width="100%" />
+  <img  alt="snake eating my contributions" src="github-snake.svg"  width="80%" />
 <br/><br/>
 </div>
 
