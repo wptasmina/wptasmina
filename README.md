@@ -143,6 +143,16 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 
 ### Github Stats
 
+<!-- Stats Section -->
+<h2 align="center">📊 My Stats</h2>
+<div align="center">
+  <a href="https://wakatime.com/@27c85e42-a650-4900-abe6-fdef568a986e">
+    <img src="https://wakatime.com/badge/user/27c85e42-a650-4900-abe6-fdef568a986e.svg" alt="Total time coded since Jul 10 2024" />
+  </a>
+</div>
+
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
