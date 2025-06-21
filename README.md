@@ -151,15 +151,12 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 <br/>
 
 <div style="display: flex; gap: 10px;">
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-
   <img src="https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-
-</div>
+<br>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
+</div>
 <!-- My Contributions Section -->
 <br>
 <h2 align="left">🐍 My Contributions</h2>
