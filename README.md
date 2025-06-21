@@ -147,16 +147,14 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
     <img src="https://wakatime.com/badge/user/27c85e42-a650-4900-abe6-fdef568a986e.svg" alt="Total time coded since June 22 2025" />
   </a>
 </div> -->
-
 <br/>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="180" />
+<div style="display: flex;  gap: 10px;">
+<img src="https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="50%" height="180"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="50%" height="180" />
 </div>
 
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="100%" />
 
 <br>
 
