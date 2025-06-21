@@ -138,7 +138,7 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 </p>
 <br>
 
-### Github Stats
+### 📊 Github Stats
 <!-- Stats Section -->
 
 <!-- <h2 align="center">📊 My Stats</h2> -->
@@ -150,8 +150,8 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 
 <br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="180" />
 </div>
 
 <br>
