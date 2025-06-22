@@ -150,21 +150,21 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 <div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center;">
   <!-- Stats Card -->
   <img 
-    style="width: 100%; max-width: 400px; height: auto;" 
+    style="max-width: 400px; height: auto;" 
     src="https://github-readme-stats.vercel.app/api?username=wptasmina&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
 
   <!-- Streak Stats -->
   <img 
-    style="width: 100%; max-width: 400px; height: auto;" 
+    style="max-width: 400px; height: auto;" 
     src="https://streak-stats.demolab.com/?user=wptasmina&theme=radical&hide_border=true"
     alt="GitHub Streak Stats"
   />
 
   <!-- Top Languages -->
   <img 
-    style="width: 100%; max-width: 400px; height: auto;" 
+    style="max-width: 400px; height: auto;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmina&layout=compact&theme=radical&hide_border=true"
     alt="Top Languages"
   />
