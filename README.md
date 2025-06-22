@@ -163,11 +163,7 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
   />
 
   <!-- Top Languages -->
-  <img 
-    style="max-width: 400px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmina&layout=compact&theme=radical&hide_border=true"  height="180em"
-    alt="Top Languages"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmina&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 <br>
