@@ -147,15 +147,16 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
   </a>
 </div> -->
 <br/>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-
-<br>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=wptasmina&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
+<div align="center">
+  <!-- Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wptasmina&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  
+  <!-- Streak Stats -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=wptasmina&theme=radical&hide_border=true"/>
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmina&layout=compact&theme=radical&hide_border=true"/>
 </div>
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmina&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 
 <br>
 
@@ -165,6 +166,8 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
   <img  alt="snake eating my contributions" src="github-snake.svg"  width="80%" />
 <br/><br/>
 </div>
+
+
 
 
 
