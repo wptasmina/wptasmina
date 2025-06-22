@@ -147,13 +147,18 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
   </a>
 </div> -->
 <br/>
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <!-- Stats Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wptasmina&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
   
+  
+  <br/>
+
   <!-- Streak Stats -->
   <img height="180em" src="https://streak-stats.demolab.com/?user=wptasmina&theme=radical&hide_border=true"/>
-  
+
+  <br/>
+
   <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmina&layout=compact&theme=radical&hide_border=true"/>
 </div>
