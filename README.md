@@ -136,7 +136,7 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth.js">
 </p>
-<br>
+
 
 ### 📊 Github Stats
 <!-- Stats Section -->
