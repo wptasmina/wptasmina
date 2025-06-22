@@ -164,7 +164,7 @@ I am excited by the opportunity to join Redmi and leverage my skills and knowled
 
   <!-- Top Languages -->
   <img 
-    style="max-width: 400px; height: auto;" 
+    style="max-width: 400px; height: 180em;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=wptasmina&layout=compact&theme=radical&hide_border=true"
     alt="Top Languages"
   />
